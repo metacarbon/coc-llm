@@ -1,0 +1,2 @@
+### Scene Card:
+@Scenario: Eldritch Enlightenment @Location: Hidden Library of Alexandria @Important Object: The Lost Tome @Goal: Decipher the cryptic prophecies @Obstacle: Puzzling traps and the Library's spectral guardians
