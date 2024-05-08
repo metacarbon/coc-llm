@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "name": "Professor Arthur",
+        "occupation": "Linguist",
+        "age": "52",
+        "gender": "Male",
+        "skills": ["Anthropology", "History", "Library Use"],
+        "personality_traits": ["Intelligent", "Inquisitive", "Observant"],
+        "ideals": ["Knowledge", "Truth", "Understanding"],
+        "flaws": ["Overly meticulous", "Absent-minded"],
+        "speaking_style": 
+        {
+            "description": "Professor Arthur speaks with an educated tone, frequently using complex vocabulary and formal phrasing. He often quotes literary works or historical figures and enjoys explaining the etymology of words.",
+            "quirks": ["Using Latin phrases or quotes", "Pausing to find the most precise word"],
+            "sample_lines": 
+            [
+                "Ah, this cryptic inscription reminds me of a line from Virgil: 'Forsan et haec olim meminisse iuvabit.' Perhaps even this will be a source of pleasure someday.",
+                "It appears we've stumbled upon a fascinating enigma. Let us endeavor to unravel its secrets with great alacrity.",
+                "The etymology of this word is particularly intriguing, harkening back to ancient roots that may offer valuable insight."
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Dr. Eleanor",
+        "occupation": "Inventor",
+        "age": "40",
+        "gender": "Female",
+        "skills": ["Engineering", "Physics", "Mech. Repair"],
+        "personality_traits": ["Creative", "Enthusiastic", "Eccentric"],
+        "ideals": ["Innovation", "Discovery", "Progress"],
+        "flaws": ["Easily distracted", "Overconfident in her abilities"],
+        "speaking_style": 
+        {
+            "description": "Dr. Eleanor speaks with excitement and passion about her work, often using technical jargon and making up her own words. She tends to jump from one topic to another and enjoys sharing her ideas with others.",
+            "quirks": ["Using made-up words or phrases", "Getting carried away by her enthusiasm"],
+            "sample_lines": 
+            [
+                "This contraption here is my latest invention, the Spectro-Analyzer! It can detect otherworldly energy signatures!",
+                "I've been pondering the implications of this discovery, and I must say, it's positively flabbergastifying!",
+                "You see, if we harness the power of these eldritch energies, we could create a device with unparalleled capabilities!"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Rosie",
+        "occupation": "Street Urchin",
+        "age": "14",
+        "gender": "Female",
+        "skills": ["Stealth", "Sleight of Hand", "Spot Hidden"],
+        "personality_traits": ["Resourceful", "Quick-witted", "Brave"],
+        "ideals": ["Survival", "Freedom", "Friendship"],
+        "flaws": ["Mistrustful of authority", "Impatient"],
+        "speaking_style": 
+        {
+            "description": "Rosie speaks with a blend of street slang and youthful energy. She tends to use informal language and often shortens or combines words. Despite her tough exterior, she shows genuine concern for her friends.",
+            "quirks": ["Using street slang and informal language", "Shortening or combining words"],
+            "sample_lines": 
+            [
+                "Oi, guv'nor! You lookin' for some info? I might have the scoop you need, but it ain't free.",
+                "This joint's crawlin' with coppers. Best keep our heads low and our wits sharp.",
+                "We gotta stick together, you know? It's a rough world out there, and we've only got each other."
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "Detective James",
+        "occupation": "Private Investigator",
+        "age": "45",
+        "gender": "Male",
+        "skills": ["Firearms", "Spot Hidden", "Locksmith"],
+        "personality_traits": ["Tenacious", "Perceptive", "Tough"],
+        "ideals": ["Justice", "Loyalty", "Determination"],
+        "flaws": ["Stubborn", "Haunted by past cases"],
+        "speaking_style": 
+        {
+            "description": "Detective James speaks with a gruff, no-nonsense tone. He uses detective jargon and short, to-the-point sentences. He's not one for small talk and focuses on the task at hand.",
+            "quirks": ["Using detective jargon", "Being terse and direct"],
+            "sample_lines": 
+            [
+                "The vic's prints were all over the murder weapon. Pretty open-and-shut if you ask me.",
+                "I've been tailing this perp for days, and I'm not about to let him slip away now.",
+                "We need to shake down some informants and find out who's behind this mess."
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "name": "Lucy",
+        "occupation": "Journalist",
+        "age": "28",
+        "gender": "Female",
+        "skills": ["Photography", "Persuade", "Library Use"],
+        "personality_traits": ["Adventurous", "Curious", "Resourceful"],
+        "ideals": ["Truth", "Freedom of Information", "Courage"],
+        "flaws": ["Overly trusting", "Sometimes reckless"],
+        "speaking_style": 
+        {
+            "description": "Lucy speaks with an energetic and inquisitive tone. She asks probing questions and uses journalistic lingo. She often speaks quickly, driven by her curiosity and eagerness to uncover the truth.",
+            "quirks": ["Using journalistic terms", "Asking probing questions"],
+            "sample_lines": 
+            [
+                "I've been digging into this story for weeks, and I'm starting to uncover some real skeletons in the closet.",
+                "We need to get to the bottom of this. The public deserves to know the truth.",
+                "My editor thinks I'm chasing a wild goose, but I'm sure there's more to this than meets the eye."
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "name": "Oliver",
+        "occupation": "Antiquarian",
+        "age": "65",
+        "gender": "Male",
+        "skills": ["Appraise", "History", "Occult"],
+        "personality_traits": ["Wise", "Patient", "Cautious"],
+        "ideals": ["Preservation", "Wisdom", "Understanding the past"],
+        "flaws": ["Hesitant to take risks", "Obsessed with antiquities"],
+        "speaking_style": 
+        {
+            "description": "Oliver speaks with a calm, measured tone. He uses antiquated language and expressions, and often shares anecdotes or historical facts. He prefers to approach problems slowly and methodically.",
+            "quirks": ["Using antiquated language", "Sharing historical anecdotes"],
+            "sample_lines": 
+            [
+                "This artifact dates back to the 16th century and is said to possess otherworldly properties.",
+                "As the ancient proverb goes, 'fortune favors the bold,' but we must proceed with caution.",
+                "The history of this place is shrouded in mystery and intrigue, a veritable tapestry of secrets waiting to be unraveled."
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "name": "Samantha",
+        "occupation": "Nurse",
+        "age": "33",
+        "gender": "Female",
+        "skills": ["First Aid", "Medicine", "Psychology"],
+        "personality_traits": ["Compassionate", "Calm under pressure", "Empathetic"],
+        "ideals": ["Healing", "Altruism", "Comforting others"],
+        "flaws": ["Overly protective", "Sometimes emotionally overwhelmed"],
+        "speaking_style": 
+        {
+            "description": "Samantha speaks with a soothing and reassuring tone. She uses medical terminology when discussing her work and often tries to comfort or console others. She is a good listener and encourages others to share their feelings.",
+            "quirks": ["Using medical terminology", "Offering comfort or reassurance"],
+            "sample_lines": 
+            [
+                "This injury looks severe, but I believe I can treat it. Just try to stay calm and breathe deeply.",
+                "We've all been through a lot, and it's important to take care of ourselves, both physically and emotionally.",
+                "The human body is a remarkable thing, but sometimes the mind needs just as much attention and care."
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "name": "Victor",
+        "occupation": "Stage Magician",
+        "age": "38",
+        "gender": "Male",
+        "skills": ["Sleight of Hand", "Disguise", "Dodge"],
+        "personality_traits": ["Charismatic", "Confident", "Mysterious"],
+        "ideals": ["Entertainment", "Mastery of Illusion", "Self-improvement"],
+        "flaws": ["Secretive", "Egotistical"],
+        "speaking_style": 
+        {
+            "description": "Victor speaks with a theatrical flair, often incorporating dramatic pauses and gestures. He enjoys using magician's jargon and occasionally speaks in riddles or cryptic phrases. He thrives on being the center of attention.",
+            "quirks": ["Using magician's jargon", "Speaking cryptically"],
+            "sample_lines": 
+            [
+                "Ah, my dear friend, the world is but a stage, and we are merely players, each with our part to perform.",
+                "To reveal the secrets of the universe, one must first master the art of misdirection.",
+                "A true magician never reveals his secrets, but perhaps I can offer some insight into this enigma."
+            ]
+        }
+    }
+]
