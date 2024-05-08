@@ -1,0 +1,97 @@
+[
+    {
+    "name": "Dr. Evelyn Blackwood",
+    "occupation": "Anthropologist",
+    "age": "45",
+    "gender": "Female",
+    "skills": ["Anthropology", "Occult", "Language (Latin)"],
+    "personality_traits": ["Inquisitive", "Open-minded", "Determined"],
+    "ideals": ["Truth", "Cultural preservation", "Expanding knowledge"],
+    "flaws": ["Obsessive", "Prone to paranoia"],
+    "speaking_style": {
+        "description": "Dr. Blackwood often uses academic jargon and references historical events and ancient cultures in her speech.",
+        "quirks": ["Using anthropological terms", "Referencing ancient cultures"],
+        "sample_lines": [
+            "This artifact bears a striking resemblance to those used in the ancient Mayan rituals.",
+            "Many cultures have beliefs that may seem strange to us, but we must approach them with an open mind.",
+            "I won't rest until we uncover the truth behind these events, no matter where it leads."
+            ]
+        }
+    },
+    {
+        "name": "Jack 'Lucky' Sullivan",
+        "occupation": "Private Investigator",
+        "age": "35",
+        "gender": "Male",
+        "skills": ["Investigation", "Lockpick", "Firearms"],
+        "personality_traits": ["Charming", "Resourceful", "Street-smart"],
+        "ideals": ["Justice", "Loyalty", "Pragmatism"],
+        "flaws": ["Gambling addiction", "Overconfident"],
+        "speaking_style": {
+            "description": "Jack often uses slang, makes witty remarks, and relies on his street smarts in conversation.",
+            "quirks": ["Using slang", "Making witty remarks"],
+            "sample_lines": [
+                "This case is a real head-scratcher, but I've cracked tougher nuts before.",
+                "Sometimes you gotta bend the rules a little to get the job done. It's a tough world out there.",
+                "I've got a nose for trouble, and this whole situation reeks of it."
+            ]
+        }
+    },
+    {
+        "name": "Sister Mary Catherine",
+        "occupation": "Nun",
+        "age": "55",
+        "gender": "Female",
+        "skills": ["Theology", "Occult", "History"],
+        "personality_traits": ["Devout", "Wise", "Resolute"],
+        "ideals": ["Faith", "Protection", "Sacrifice"],
+        "flaws": ["Strict adherence to beliefs", "Haunted by past events"],
+        "speaking_style": {
+            "description": "Sister Mary Catherine frequently quotes scriptures, offers spiritual guidance, and speaks with a sense of wisdom and faith.",
+            "quirks": ["Quoting scriptures", "Offering spiritual advice"],
+            "sample_lines": [
+                "As it is written in Psalms, 'Though I walk through the valley of the shadow of death, I will fear no evil.'",
+                "We must trust in the Lord's plan, my child. He will guide us through these trying times.",
+                "I have faced darkness before, and with His grace, I shall face it again."
+            ]
+        }
+    },
+    {
+        "name": "Professor Alastair Winthrop",
+        "occupation": "Historian",
+        "age": "62",
+        "gender": "Male",
+        "skills": ["History", "Library Use", "Occult"],
+        "personality_traits": ["Scholarly", "Eccentric", "Persistent"],
+        "ideals": ["Knowledge", "Preserving the past", "Uncovering secrets"],
+        "flaws": ["Absent-minded", "Socially awkward"],
+        "speaking_style": {
+            "description": "Professor Winthrop frequently references historical events, uses antiquated language, and has a tendency to ramble on about his research.",
+            "quirks": ["Using archaic words", "Rambling about historical topics"],
+            "sample_lines": [
+                "This tome is a veritable treasure trove of arcane knowledge, dating back to the 16th century.",
+                "I say, this puzzle is quite the conundrum. It reminds me of the cryptic riddles of the ancient Egyptians.",
+                "The key to unraveling this mystery lies within the annals of history. We must delve deeper into the past."
+            ]
+        }
+    },
+    {
+        "name": "Hazel 'Ace' Dubois",
+        "occupation": "Pilot",
+        "age": "28",
+        "gender": "Female",
+        "skills": ["Pilot", "Mechanical Repair", "Brawl"],
+        "personality_traits": ["Daring", "Confident", "Loyal"],
+        "ideals": ["Freedom", "Camaraderie", "Living life to the fullest"],
+        "flaws": ["Reckless", "Stubborn"],
+        "speaking_style": {
+            "description": "Hazel often uses aviation jargon, speaks with a confident and lively tone, and is always ready with a witty comeback.",
+            "quirks": ["Using aviation terms", "Making daring statements"],
+            "sample_lines": [
+                "Looks like we're in for some turbulence, but don't worry, I've flown through worse.",
+                "I'm not one to bail out when things get tough. We're in this together, come hell or high water.",
+                "Time to buckle up and face this challenge head-on. Let's show 'em what we're made of!"
+            ]
+        }
+    }
+]

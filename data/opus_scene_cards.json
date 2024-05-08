@@ -1,0 +1,42 @@
+[
+    {
+        "scenario_name": "The Whispering Asylum",
+        "situation_description": "The investigators are called to an abandoned asylum where strange whispers and ghostly apparitions have been reported.",
+        "location": "Abandoned Asylum",
+        "important_object": "Patient Records",
+        "character_goal": "Uncover the truth behind the asylum's dark past and put the restless spirits to rest",
+        "obstacle": "Malevolent spirits, crumbling infrastructure, and a dark secret buried within the asylum's walls"
+    },
+    {
+        "scenario_name": "The Cursed Painting",
+        "situation_description": "A wealthy art collector hires the investigators to look into a painting that seems to bring misfortune to its owners.",
+        "location": "Art Gallery",
+        "important_object": "Cursed Painting",
+        "character_goal": "Discover the origin of the painting's curse and find a way to break it",
+        "obstacle": "Supernatural occurrences, rival collectors, and a powerful entity tied to the painting"
+    },
+    {
+        "scenario_name": "The Haunting of Esterbrook Manor",
+        "situation_description": "The investigators are invited to a seance at a haunted manor, where a dark presence seeks to possess the living.",
+        "location": "Esterbrook Manor",
+        "important_object": "Antique Ouija Board",
+        "character_goal": "Uncover the identity of the malevolent spirit and banish it from the manor",
+        "obstacle": "Possessed guests, spectral manifestations, and a powerful, vengeful spirit"
+    },
+    {
+        "scenario_name": "The Midnight Express",
+        "situation_description": "The investigators board a train that vanishes into an otherworldly realm, filled with nightmarish creatures and dark secrets.",
+        "location": "Phantom Train",
+        "important_object": "Mysterious Train Ticket",
+        "character_goal": "Discover the purpose of the phantom train and find a way back to reality",
+        "obstacle": "Monstrous passengers, ever-changing train cars, and a sinister conductor"
+    },
+    {
+        "scenario_name": "The Cult of the Black Pharaoh",
+        "situation_description": "An ancient Egyptian cult seeks to resurrect their dark pharaoh, threatening to unleash an ancient evil upon the world.",
+        "location": "Egyptian Ruins",
+        "important_object": "Pharaoh's Sarcophagus",
+        "character_goal": "Stop the cult's resurrection ritual and seal away the dark pharaoh forever",
+        "obstacle": "Cult members, ancient traps, and the looming threat of the dark pharaoh's return"
+    }
+]
